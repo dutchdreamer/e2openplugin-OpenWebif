@@ -1,0 +1,227 @@
+sourcefiles/themes/absb/js/admin.js: line 43, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 127, col 82, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 179, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 206, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 244, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 281, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 292, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 370, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 434, col 2, Missing semicolon.
+sourcefiles/themes/absb/js/admin.js: line 448, col 9, Misleading line break before '||'; readers may interpret this as an expression boundary.
+
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 50, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 60, col 16, 'i' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 60, col 23, 'len' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 117, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 127, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 307, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 315, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 462, col 30, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 672, col 32, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 726, col 93, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 736, col 50, ['en'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 739, col 50, ['en'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 788, col 34, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 834, col 16, 'i' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 886, col 16, 'i' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 908, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 909, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 910, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 916, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 917, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 918, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 926, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 927, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 933, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 934, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 942, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 948, col 13, Misleading line break before '&&'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 995, col 32, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1151, col 19, 'day' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1152, col 19, 'year' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1153, col 17, 'month' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1154, col 17, 'hours' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1155, col 17, 'minutes' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1156, col 17, 'seconds' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1182, col 17, 'oldViewMode' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1253, col 11, Misleading line break before '?'; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1550, col 78, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1553, col 104, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1630, col 11, 'parts' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1631, col 9, 'date' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1684, col 28, Missing semicolon.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1687, col 24, 'part' is already defined.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1688, col 18, ['M'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1688, col 37, ['MM'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1688, col 57, ['mm'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1688, col 77, ['m'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1689, col 18, ['dd'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1689, col 38, ['d'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1690, col 18, ['P'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1690, col 37, ['p'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-bootstrap-date-timepicker.js: line 1690, col 37, Too many errors. (85% scanned).
+
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 9, col 74, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 10, col 30, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 11, col 62, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 12, col 79, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 13, col 79, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 14, col 21, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 15, col 13, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 16, col 30, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 17, col 73, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 18, col 87, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 19, col 91, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 20, col 80, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 21, col 77, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 22, col 25, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 23, col 13, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 24, col 12, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 25, col 65, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 26, col 119, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 27, col 18, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 28, col 37, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 29, col 76, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 30, col 78, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 31, col 67, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 32, col 69, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 33, col 68, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 34, col 66, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 35, col 68, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 36, col 66, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 37, col 73, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 38, col 73, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 39, col 25, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 40, col 18, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 41, col 13, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 42, col 12, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 43, col 76, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 44, col 64, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 45, col 13, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 89, col 14, 'x' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 91, col 13, 'sx' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 152, col 13, '_datea' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 153, col 13, '_da' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 233, col 77, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 273, col 9, '_b' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 608, col 29, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 789, col 55, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 797, col 51, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 800, col 21, '_h' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 801, col 21, '_m' is already defined.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 915, col 99, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 919, col 35, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-at.js: line 919, col 35, Too many errors. (89% scanned).
+
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 65, col 19, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 79, col 19, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 91, col 19, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 105, col 19, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 178, col 37, ['satellites'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 180, col 43, ['service'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 181, col 43, ['name'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 206, col 37, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 208, col 43, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 208, col 63, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 209, col 43, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 209, col 58, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 233, col 53, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 234, col 56, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 244, col 35, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 245, col 35, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 268, col 38, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 270, col 54, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 270, col 81, ['startpos'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 280, col 45, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 282, col 51, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 283, col 51, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 309, col 53, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 310, col 56, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 331, col 37, ['services'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 333, col 43, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 334, col 41, ['ismarker'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 335, col 41, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 336, col 49, ['pos'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 337, col 35, ['ismarker'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 343, col 54, ['ismarker'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 685, col 39, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 728, col 35, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 731, col 45, ['servicename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 732, col 49, ['servicereference'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 831, col 30, Value of 'e' may be overwritten in IE 8 and earlier.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 899, col 21, Comma warnings can be turned off with 'laxcomma'.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 898, col 32, Misleading line break before ','; readers may interpret this as an expression boundary.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 986, col 64, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 987, col 67, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 988, col 18, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-bqe.js: line 990, col 11, Missing semicolon.
+
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 76, col 42, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 77, col 42, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 83, col 42, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 84, col 38, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 194, col 38, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 195, col 38, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 198, col 38, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 199, col 38, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive-epgr.js: line 340, col 11, Missing semicolon.
+
+sourcefiles/themes/absb/js/vti-responsive.js: line 52, col 7, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 139, col 23, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 140, col 41, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 141, col 32, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 142, col 39, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 143, col 54, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 144, col 57, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 145, col 54, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 146, col 30, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 147, col 58, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 148, col 54, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 149, col 30, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 150, col 26, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 151, col 22, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 152, col 46, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 153, col 18, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 250, col 39, Implied eval. Consider passing a function instead of a string.
+sourcefiles/themes/absb/js/vti-responsive.js: line 252, col 6, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 276, col 73, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 284, col 73, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 316, col 49, ['volume'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 317, col 41, ['volume'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 319, col 49, ['volume'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 323, col 23, ['muted'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 333, col 37, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 334, col 40, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 337, col 23, ['isRecording'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 338, col 34, ['Recording_list'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 338, col 52, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 353, col 23, ['isStreaming'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 354, col 37, ['Streaming_list'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 354, col 55, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 357, col 17, 'tmp' is already defined.
+sourcefiles/themes/absb/js/vti-responsive.js: line 370, col 23, ['inStandby'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 373, col 40, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 378, col 40, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 382, col 32, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 383, col 67, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 384, col 62, Bad escaping of EOL. Use option multistr if needed.
+sourcefiles/themes/absb/js/vti-responsive.js: line 395, col 16, You might be leaking a variable (current_ref) here.
+sourcefiles/themes/absb/js/vti-responsive.js: line 395, col 40, ['currservice_serviceref'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 396, col 19, You might be leaking a variable (current_name) here.
+sourcefiles/themes/absb/js/vti-responsive.js: line 396, col 44, ['currservice_station'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 399, col 31, ['currservice_begin'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 399, col 73, ['currservice_end'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 406, col 28, ['transcoding'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 417, col 187, ['currservice_fulldescription'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 417, col 241, ['currservice_name'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 419, col 27, ['currservice_filename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 424, col 98, ['currservice_filename'] is better written in dot notation.
+sourcefiles/themes/absb/js/vti-responsive.js: line 424, col 98, Too many errors. (30% scanned).
+sourcefiles/themes/absb/js/vti-responsive.js: line 250, col 23, Missing semicolon.
+sourcefiles/themes/absb/js/vti-responsive.js: line 250, col 23, Too many errors. (100% scanned).
+
+sourcefiles/themes/absb/js/vti.js: line 23, col 63, Missing semicolon.
+sourcefiles/themes/absb/js/vti.js: line 24, col 79, Missing semicolon.
+sourcefiles/themes/absb/js/vti.js: line 30, col 21, Missing semicolon.
+
+219 errors
